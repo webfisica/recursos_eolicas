@@ -7,5 +7,5 @@ https://sigel.aneel.gov.br/portal/home/
 
 ## Informativos
 
-### Infovento
+### Infovento / Boletim Anual
 https://abeeolica.org.br/energia-eolica/dados-abeeolica/
